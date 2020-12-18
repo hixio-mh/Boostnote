@@ -103,7 +103,7 @@
     "node-ipc": "^8.1.0",
     "prettier": "^1.18.2",
     "prop-types": "^15.7.2",
-    "query-string": "^6.5.0",
+    "query-string": "^6.13.7",
     "raphael": "^2.2.7",
     "react": "^16.8.6",
     "react-autosuggest": "^9.4.0",
